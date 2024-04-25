@@ -1,0 +1,21 @@
+[
+  {
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.IfTouchBoxThenDead",
+    "sha256_cert_fingerprints": [
+      "FB:A4:2B:0D:5F:BC:88:B7:FB:E3:0F:09:07:ED:F0:0F:5B:BC:80:86:22:8E:69:E4:30:29:57:CF:0C:E1:FB:FA"
+    ]
+   }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.IfTouchBoxThenDead",
+      "sha256_cert_fingerprints":
+        ["4D:8D:EB:33:75:72:D1:E2:A5:9D:64:14:90:39:71:47:04:E8:D6:36:FB:A2:EE:F8:64:47:B4:68:29:8A:59:6E"]
+    }
+  }
+]

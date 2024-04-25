@@ -1,0 +1,18 @@
+@font-face {
+  font-family: 'FontAwesome';
+  src: url("applab/fontawesome-webfont.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+html, body {
+  height: 100%;
+  image-rendering: crisp-edges;
+}
+html {
+  display: table;
+  margin: auto;}
+
+body {
+  display: table-cell;
+  vertical-align: middle;
+}
