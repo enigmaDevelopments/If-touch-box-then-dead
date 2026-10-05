@@ -2812,7 +2812,7 @@ onEvent("exportButton", "click", function( ) {
 });
 function startingLink(){
   isExpanded = 0
-  exportedText = "https://if-touch-box-then-dead.glitch.me/?"
+  exportedText = "https://enigmadevelopments.github.io/If-touch-box-then-dead/?"
   exportedText += mapToBase64(map[0] + levelFormer(1).join("") + levelFormer(2).join("") + levelFormer(3).join("") + levelFormer(4).join("") + levelFormer(5).join("") + levelFormer(6).join("") + levelFormer(7).join(""),true);
   console.log(exportedText);
   setText("exportText", exportedText);
